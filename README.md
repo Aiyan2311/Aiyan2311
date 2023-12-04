@@ -27,8 +27,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
   
- 
-   <img src="https://img.icons8.com/color/48/000000/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+
+   <img src="https://icons8.com/icon/PndQWK6M1Hjo/bootstrap" alt="Bootstrap" width="40" height="40"/>
   
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
