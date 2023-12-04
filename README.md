@@ -9,7 +9,7 @@
 
 <hr>
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/aiyan-fayaz-9b3242263/"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/aiyan-fayaz-9b3242263/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="HTML" width="40" height="40"/></a>
 
 <p align="left">
   <a href="https://github.com/Aiyan2311" target="_blank">
