@@ -9,6 +9,7 @@
 
 <hr>
 <h3 align="left">Connect with me:</h3>
+https://aiyanfayaz.netlify.app/
 <p align="left">
   <a href="https://github.com/Aiyan2311" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/>
